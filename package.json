@@ -26,7 +26,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "html2canvas": "^1.0.0-rc.5",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "vue-template-compiler": "^2.6.10"
   },
   "proxy": "http://192.168.31.4:8080/"
